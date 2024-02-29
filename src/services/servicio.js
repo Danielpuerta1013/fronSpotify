@@ -7,7 +7,7 @@
 */
 
 let url="https://api.spotify.com/v1/artists/7jy3rLJdDQY21OgRLCZ9sD/top-tracks?market=US"
-let token="Bearer BQB7PpsPzIjazUA1aZv1iFNk9NulQ6VNbAFgeLogUVb5c_Vuu3bAZhxpFk55vrraNdqCbT9vLa7LRV68ujA2lMRthwRv5rUiAXL5ZodTIdwkUWqR2Ag"
+let token="Bearer BQArG5ZeeCBP9JlqYHGKCI3-qF_rNfUnAZLD6iS6mSQSud2_b6SRk4rGgoqlxZMWTDVgjWBoTtlWAxwsxz9B2cjW7prmNd4thE1_1G5qk61WHvY6ugk"
 let peticion={
     method:"GET",
     headers:{
